@@ -8,7 +8,7 @@ I'm an Actuary and Data Scientist with an interest in using what we know or can 
 
 ### More Information
 
-I have an accademic background in Pure Mathematics and Finance and am currently a Data Science student at Metis and consultant at Xerox
+I have an accademic background in Pure Mathematics and Finance and am currently a Data Science student at Metis and Consultant at Buck Consultants @ Xerox/Xerox Consulting and Analytics Services.
 
 For over 4 years, I’ve been helping businesses navigate through the risks and opportunities facing their employee retirement schemes. I am eager to bring new analytical techniques to the forefront of the retirement landscape to ensure that employees have the best opportunity to be financially ready for retirement. 
 
