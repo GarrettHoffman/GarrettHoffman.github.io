@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My First Blog Post!
+title: hello word!
 ---
 
-Hello World! This is my first blog post!
+Hello World! This is my first blog post!  Using this space to share data science projects, insights, thoughts and whimsy!
