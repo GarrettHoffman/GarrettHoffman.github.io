@@ -35,4 +35,4 @@ Combining these two data sets, we can drill into each station to get all of the 
 
 Here is the full deck!  Enjoy!
 
-[benson_deck]({{ https://github.com/GarrettHoffman/garretthoffman.github.io }}assets/01_benson_deck.pdf)
+<iframe src="https://docs.google.com/presentation/d/1TEaKuyUUKK1udw7p9WXhpaMkl53a8fdCrG45uoCJZpA/embed?start=false&loop=false&delayms=30000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
