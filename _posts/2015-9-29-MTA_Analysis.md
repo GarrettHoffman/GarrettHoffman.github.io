@@ -35,4 +35,4 @@ Combining these two data sets, we can drill into each station to get all of the 
 
 Here is the full deck!  Enjoy!
 
-<iframe src="https://docs.google.com/presentation/d/1TEaKuyUUKK1udw7p9WXhpaMkl53a8fdCrG45uoCJZpA/embed?start=false&loop=false&delayms=30000" frameborder="0" width="280" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/1TEaKuyUUKK1udw7p9WXhpaMkl53a8fdCrG45uoCJZpA/embed?start=false&loop=false&delayms=30000" frameborder="0" width="720" height="426.75" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
