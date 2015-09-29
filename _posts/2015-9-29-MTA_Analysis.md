@@ -31,8 +31,8 @@ We presented a prototype for an interactive dashboard application that WTWY can 
 
 What our subway volume analysis doesn't consider is WTWY's **target market**.  We want to make sure that the street marketing teams are reaching an audience who is interested in WTWY's cause.  Using data from digitalNYC, LinkedIn, Google Maps, etc. we can develop a heatmap for the density of tech companies and women's advocacy groups throughout the city to overlay over our subway map.
 
-Combining these two data sets, we can drill into each station to get all of the metrics we need (avg. volume, volatility of volume, peak days, peak hours) along with lists of local tech and advocacy.  We can continue to drill into these local **target markets** to get information on the organization, a map showing the shortest distance from the station to it's location, and external links for more information.  These features can help WTWY plan for optimal street team placement (maybe it's more effective to approach someone a few blocks away from the station exit) as well as train their staff on their target market which can lead to more compelling conversations when approaching people on the streets.
+Combining these two data sets, we can drill into each station to get all of the metrics we need (avg. volume, volatility of volume, peak days, peak hours) along with lists of local tech and advocacy.  We can continue to drill into these local target markets to get information on the organization, a map showing the shortest distance from the station to it's location, and external links for more information.  These features can help WTWY plan for optimal street team placement (maybe it's more effective to approach someone a few blocks away from the station exit) as well as train their staff on their target market which can lead to more compelling conversations when approaching people on the streets.
 
 Here is the full deck!  Enjoy!
 
-[benson_deck](assets/01_benson_deck.pdf)
+[benson_deck]({{ https://github.com/GarrettHoffman/garretthoffman.github.io }}assets/01_benson_deck.pdf)
