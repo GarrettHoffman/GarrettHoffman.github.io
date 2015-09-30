@@ -7,7 +7,7 @@ Week 1 @ [Metis](http://www.thisismetis.com/data-science "Metis Data Science Boo
 
 #### The Problem
 
-For project benson we were approached by WomenTechWomenYes (WTWY), a fictitious non-profit organization located in New York City whose mission is to increase the participation of women and technology.  The engagement centers around optimizing the deployment of their street marketing teams.  These teams serve dual purposes, to build reach and awareness for their cause and collect email addresses to distribute free tickets to their summer gala.  
+For project benson we were approached by WomenTechWomenYes (WTWY), a fictitious non-profit organization located in New York City whose mission is to increase the participation of women in technology.  The engagement centers around optimizing the deployment of their street marketing teams.  These teams serve dual purposes, to build reach and awareness for their cause and collect email addresses to distribute free tickets to their summer gala.  
 
 #### Our Approach
 
