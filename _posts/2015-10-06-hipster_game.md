@@ -27,7 +27,7 @@ The test set is kept completely separate from the training set to insure that th
 
 Our model identified three Hipsters, but was it accurate?  
 
-[<img src="/assets/hipstergame_testhipsters.jpg" title="True Training Set Hipsters"/>](https://github.com/GarrettHoffman/garretthoffman.github.io/tree/master)
+[<img src="/assets/hipstergame_testhipsters.jpg" title="True Test Set Hipsters"/>](https://github.com/GarrettHoffman/garretthoffman.github.io/tree/master)
 
 We classified 2 Hipsters and 10 Non-Hipsters correctly, but misclassified 1 Non-Hipster as a Hipster (false positive) and 2 Hipsters as Non-Hipsters (false negatives).  The algorithm predicted Hipsters with 80% success, which appears pretty good at face value and slightly outperforms the most basic model of simply classifying everyone as Non-Hipster (73% success).  On the other end of the spectrum, if we added a 5th rule to our algorithm (e.g. has a forearm tattoo) to exclude the known Non-Hipster while training the model we could have miss-classified another Hipster in our test set.  This demonstrates examples of underfitting (not considering information we know about Hipsters' appearance) vs. Overfitting (creating a model that is too specific to our training set).
 
