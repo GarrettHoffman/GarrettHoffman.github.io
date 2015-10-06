@@ -21,7 +21,7 @@ Now that we had our algorithm, we needed to test our model's fit using our test 
 
 [<img src="/assets/hipstergame_testset.jpg" title="Hipster Test Set"/>](https://github.com/GarrettHoffman/garretthoffman.github.io/tree/master)
 
-The test set is kept completely separate from the training set to insure that the model was fit independly of the data used to assess the model's utility (using your test set to train the model should elicit a feeling that all [GoT fans will recognize](https://media.giphy.com/media/l41lOCS45UvxvGsOQ/giphy.gif "Shame.")).  We applied our algorithm to the test set and got our results.
+The test set is kept completely separate from the training set to insure that the model was fit independly of the data used to assess the model's utility; and using your test set to train the model should elicit a feeling that all [GoT fans will recognize](https://media.giphy.com/media/l41lOCS45UvxvGsOQ/giphy.gif "Shame.").  We applied our algorithm to the test set and got our results.
 
 [<img src="/assets/hipstergame_alg_results.jpg" title="Hipster Algorithm Results"/>](https://github.com/GarrettHoffman/garretthoffman.github.io/tree/master)
 
