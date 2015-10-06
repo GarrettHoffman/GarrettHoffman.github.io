@@ -5,7 +5,7 @@ title: The Hipster Game, or, a Very Serious Introduction to Core Concepts in Sup
 
 [<img src="/assets/hipstergame_banner.jpg" title="The Hipster Game, or, a Very Serious Introduction to Core Concepts in Supervised Learning"/>](https://github.com/GarrettHoffman/garretthoffman.github.io/tree/master)
 
-A quick [Wikipedia](https://en.wikipedia.org/wiki/Hipster_(contemporary_subculture) "Hipster (contemporary subculture)") search for "Hipster" describes a person belonging to "The subculture described as a 'mutating, trans-Atlantic melting pot of styles, tastes and behavior' and that is broadly associated with indie and alternative music, a varied non-mainstream fashion sensibility (including vintage and thrift store-bought clothes), generally progressive political views, organic and artisanal foods, and alternative lifestyles."  But can we identify a Hipster based solely on appearance?  We asked this question to illustrate the core concepts of Supervised Learning.
+A quick [Wikipedia](https://en.wikipedia.org/wiki/Hipster_(contemporary_subculture) "Hipster (contemporary subculture)") search for "Hipster" defines a person belonging to "The subculture described as a 'mutating, trans-Atlantic melting pot of styles, tastes and behavior' and that is broadly associated with indie and alternative music, a varied non-mainstream fashion sensibility (including vintage and thrift store-bought clothes), generally progressive political views, organic and artisanal foods, and alternative lifestyles."  But can we identify a Hipster based solely on appearance?  We asked this question to illustrate the core concepts of Supervised Learning.
 
 **Supervised Learning** is is a machine learning technique where an algorithm is developed based on information that you already know.  That is, we have a set of data available to us where we know our input values (also known as **features**) and the outcome value (refered to as the **supervisory signal**) that we use to train our model.  In this case we were given 15 pictures of potential Hipsters and were told which ones did in fact reside in Williamsburg.  
 
@@ -36,6 +36,6 @@ We classified 2 Hipsters and 10 Non-Hipsters correctly, but misclassified 1 Non-
 After a very amusing exercise we came out with a few key takeaways:
 
 * Supervised Learning involves creating a model based on information that we already know.
-* When thinking about features that we want to include in our model, we have to consider how well something can be objectively quantified (e.g. how can we objectively define "general Hipsterness"?)
+* When thinking about features that we want to include in our model, we have to consider how well something can be objectively quantified (e.g. how can we objectively define "general Hipsterness"?).
 * The model should **always** be trained with one set of data and tested for accuracy on a separate set of data.
 * As Data Scientists, we need to make design choices need to be made regarding the fit of the model. We have to consider underfitting and overfitting, between which lies a potential model that outperforms each extreme.
