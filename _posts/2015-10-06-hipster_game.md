@@ -3,7 +3,7 @@ layout: post
 title: The Hipster Game, or, a Very Serious Introduction to Core Concepts in Supervised Learning
 ---
 
-[<img src="hipstergame_banner.jpg" title="The Hipster Game, or, a Very Serious Introduction to Core Concepts in Supervised Learning"/>](https://github.com/GarrettHoffman/garretthoffman.github.io/assets/)
+[<img src="/assets/hipstergame_banner.jpg" title="The Hipster Game, or, a Very Serious Introduction to Core Concepts in Supervised Learning"/>](https://github.com/GarrettHoffman/garretthoffman.github.io/tree/master)
 
 A quick [Wikipedia](https://en.wikipedia.org/wiki/Hipster_(contemporary_subculture) "Hipster (contemporary subculture)") search for "Hipster" describes a person belonging to "The subculture described as a 'mutating, trans-Atlantic melting pot of styles, tastes and behavior' and that is broadly associated with indie and alternative music, a varied non-mainstream fashion sensibility (including vintage and thrift store-bought clothes), generally progressive political views, organic and artisanal foods, and alternative lifestyles."  But can we identify a Hipster based solely on appearance?  We asked this question to illustrate the core concepts of Supervised Learning.
 
