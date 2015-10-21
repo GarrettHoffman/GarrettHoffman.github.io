@@ -15,7 +15,7 @@ Many movies have been adapted in the past; some with great success (see "The Fug
 
 #### How Can We Do This?
 
-For our first pass, we can approach this problem using **linear regression**, a [supervised learning](http://garretthoffman.github.io/hipster_game/ "The Hipster Game, or, a Very Serious Introduction to Core Concepts in Supervised Learning") technique, where our predictive relationship is defined using a function of the form **y** = **B0** + **B1** * f(X1) + **B2** x f(X2) + ... + **BN** * f(XN).  f(X*i*) is traditionally equal to X*i*, however, in some cases a different function may be a better fit (e.g. log(X*i*) or X*i*<sup>2</sup>). 
+For our first pass, we can approach this problem using **linear regression**, a [supervised learning](http://garretthoffman.github.io/hipster_game/ "The Hipster Game, or, a Very Serious Introduction to Core Concepts in Supervised Learning") technique, where our predictive relationship is defined using a function of the form **y** = **B0** + **B1** * f(X1) + **B2** x f(X2) + ... + **BN** * f(XN).  f(X*i*) is traditionally equal to X*i*, however, in some cases a different function may be a better fit (e.g. log(X*i*) or X*i*<p><sup>2</sup>)</p>. 
 
 #### What Do We Know Already? (The Data)
 
