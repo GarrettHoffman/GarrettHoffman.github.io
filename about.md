@@ -4,16 +4,12 @@ title: About
 permalink: /about/
 ---
 
-I'm an Actuary and Data Scientist with an interest in using what we know or can learn about how the world works to drive optimal decisions, experiences and outcomes. 
+Some information about you!
 
 ### More Information
 
-I have an accademic background in Pure Mathematics and Finance and am currently a Data Science student at Metis and Consultant at Buck Consultants @ Xerox/Xerox Consulting and Analytics Services.
-
-For over 4 years, I’ve been helping businesses navigate through the risks and opportunities facing their employee retirement schemes. I am eager to bring new analytical techniques to the forefront of the retirement landscape to ensure that employees have the best opportunity to be financially ready for retirement. 
-
-Other interests include playing basketball, soccer, and tennis, going to the park with my dog, spending a sunny day at the beach, and listening to live music at a new venue.
+A place to include any other types of information that you'd like to include about yourself.
 
 ### Contact me
 
-[garrett.lee.hoffman@gmail.com](mailto:garrett.lee.hoffman@gmail.com)
+[email@domain.com](mailto:email@domain.com)
